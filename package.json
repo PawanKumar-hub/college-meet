@@ -1,7 +1,7 @@
 {
   "name": "collegemeet",
   "version": "1.0.0",
-  "description": "made by deepak",
+  "description": "made by deepak and Pawan",
   "main": "index.js",
   "dependencies": {
     "bull": "^4.8.3",
